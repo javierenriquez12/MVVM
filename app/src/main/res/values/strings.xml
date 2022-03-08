@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="title_all">All</string>
+    <string name="title_movies_series">%1$s! - Movies and Series</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_series">Series</string>
+</resources>
